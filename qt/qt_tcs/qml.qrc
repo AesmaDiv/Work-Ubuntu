@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/TestList.qml</file>
+        <file>images/magnifier.png</file>
+        <file>ui/TestListRow.qml</file>
+        <file>images/LogoSymbol.png</file>
+        <file>ui/TcsInfo.qml</file>
+        <file>ui/DataField.qml</file>
+    </qresource>
+</RCC>

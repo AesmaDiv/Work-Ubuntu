@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AdamTcp.qml</file>
+        <file>AdamPanel.qml</file>
+        <file>AdamChannel.qml</file>
+        <file>AdamSlot.qml</file>
+    </qresource>
+</RCC>
